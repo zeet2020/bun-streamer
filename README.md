@@ -17,3 +17,9 @@
  - use --port to start application on port no 8989
   
 ```
+
+## screenshots 
+
+ main screen 
+![Alt main](/screenshots/Screenshot-video-listing.png?raw=true "main")
+![Alt video ](/screenshots/Screenshot-video-player.png?raw=true "video player")
