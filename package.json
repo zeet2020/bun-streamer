@@ -1,0 +1,14 @@
+{
+  "name": "video-streamer",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "bun run --hot src/index.tsx",
+    "compile": "bun build src/index.tsx --outfile video-streamer --compile"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "hono": "^3.7.1"
+  },
+  "devDependencies": {}
+}
